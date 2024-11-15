@@ -1,1 +1,1 @@
-# download
+# [go download](releases/tag/download)
